@@ -4,7 +4,6 @@
 
 🚀 Currently, I'm diving deep into the world of full-stack development, exploring the latest trends and tools to craft robust and user-friendly applications. Whether it's backend development with Django or Flask, frontend magic with JavaScript, or API development with DRF and FAST API, I enjoy every aspect of the software development lifecycle.
 
-🌱 I'm always eager to learn and collaborate on exciting projects, so feel free to reach out if you're looking for a teammate or need assistance on any Python-related projects. Let's code something amazing together!
+🌱 I'm always eager to learn and collaborate on exciting projects, so feel free to reach out if you're looking for a teammate or need assistance on any Python-related projects. 
 
-📫 You can connect with me on GitHub or reach out via email hrpatel8935@gmail.com. Let's build the future of technology together, one line of code at a time!
-
+📫 You can connect with me on GitHub or reach out via email hrpatel8935@gmail.com.
